@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(nul)",
+      "Bash(dir /b \"c:\\Clouds\\OneDrive\\Documents\\Work\")",
+      "Bash(findstr:*)",
+      "SlashCommand(/bmad:core:workflows:brainstorming)",
+      "Bash(mkdir:*)",
+      "Bash(claude --version:*)",
+      "Bash(git clone:*)",
+      "Bash(dir /b c:CloudsOneDriveDocumentsWork)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

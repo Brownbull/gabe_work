@@ -1,0 +1,85 @@
+QUESTIONS TO RECALL HIDDEN EXPERIENCES
+For Senior Software Engineer (Hands-On)
+Complex Code Challenges:
+
+What’s the most complex piece of code or system you’ve written (beyond standard tasks)?
+
+Have you implemented performance improvements (reduced runtime, improved efficiency) in critical systems?
+
+Languages & Tools:
+
+You mentioned building Python & shell libraries — did you integrate these into production workflows at Experian?
+
+Have you worked with CICS, VSAM, REXX, or COBOL in production environments (beyond basic exposure)? If yes, where and how?
+
+Mainframe Work:
+
+Have you done deep debugging in z/OS or mainframe environments?
+
+Have you written complex JCL scripts for batch processes (e.g., multiple step jobs, error handling, dataset management)?
+
+For AI/ML Engineer (Data & Automation)
+Model Development:
+
+Beyond your ANN & ETL projects, have you trained, optimized, or deployed ML models for work-related problems?
+
+Have you used Scikit-learn, TensorFlow, or PyTorch in production or experimental contexts?
+
+Automation:
+
+You mentioned automating reporting and research — did you integrate these automations with other systems (APIs, dashboards, batch jobs)?
+
+Data Pipelines:
+
+Have you designed ETL processes that handled large-scale or sensitive financial data?
+
+For Tech Lead / Engineering Manager
+Team Development & Mentorship:
+
+You’ve coached others to move from admin to dev roles — can you detail how many people you mentored and their progression?
+
+Have you conducted formal or informal code reviews and what was your approach to improving team code quality?
+
+Cross-Team Coordination:
+
+Beyond the Amazon STAR stories, any large multi-team projects where you were the go-to coordinator or decision-maker?
+
+Process Improvements:
+
+You redesigned the High Potential program — have you implemented technical processes (branching strategy, deployment workflows) that improved team performance significantly?
+
+For the Mainframe Sr Programmer Analyst role (Citi)
+COBOL/JCL specifics:
+
+Have you written or maintained COBOL programs interacting with DB2/VSAM in a financial context?
+
+Have you done data conversion or migration between formats like EDI, ACH, BAI2, XML, or sequential files?
+
+CICS:
+
+Any online transaction processing development (CICS or similar)?
+
+Performance & Debugging:
+
+Have you been involved in root cause analysis of mainframe application failures or performance tuning?
+
+Recent Projects
+Medic CRM:
+
+Can you share more technical details? (e.g., database structure, Flask blueprint usage, CI/CD if any, authentication design, deployment challenges).
+
+Did you build this solo or with collaborators?
+
+Next:
+If you answer these, I’ll:
+
+Expand your experience section with these missing achievements.
+
+Strengthen your technical profile (COBOL/JCL, CICS, VSAM, z/OS) for roles like Citi’s.
+
+Add AI/ML depth (pipelines, models, experiments).
+
+Highlight leadership contributions (mentorship, cross-team work).
+
+Would you like me to prepare a template where you can just jot down short answers for each question (to make it quick)?
+Or should we go one section at a time (e.g., start with Mainframe experiences first)?

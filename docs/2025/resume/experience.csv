@@ -1,0 +1,20 @@
+id,topic,description
+1,"ML","Designed and implemented a fully configurable Artificial Neural Network framework in Python, supporting dynamic architectures, custom transfer functions, and backpropagation with layer-level weight visualization for interpretability."
+2,"C Programming","Demonstrated expertise in C programming through a comprehensive repository of projects, including advanced bit manipulation, endian conversion, and dynamic memory management. Highlights include:
+- Implemented low-level operations in '[Advanced] bitPtrManipulation/' and '[Advanced] getSwapByteEndian/'.
+- Solved complex challenges such as polynomial derivation ('[Challenge] PolyDeriv/') and string-to-hex conversion ('[Challenge] String2Hex/').
+- Developed robust data structures like double-linked lists ('[Struct] doubleLinkedList/') and struct-of-structs ('[Struct] structOfStruct/').
+- Showcased proficiency in file handling ('[Basics] InOutFile/', '[IO] writeTextORBinary/') and temporary file management ('[IO] tempFileCRUD/').
+- Integrated C with other languages, including Java ('[Java] callSimpleC/') and Python ('[Python] wrapCFuncNestedStruct/').
+- Applied Test-Driven Development principles ('[TDD]Basic/') and created automation scripts ('[Tools] Scripts/')."
+3,"Data Structures and Algorithms","Designed and implemented advanced data structures and algorithms in C++, including:
+- A binary search tree with custom operations such as in-order, pre-order, and post-order traversals, level-wise element display, and maximum element search ('[Legacy] Usach/arbol.cpp').
+- Linked list-based systems for managing product data, featuring operations for adding, removing, and analyzing nodes ('[Legacy] Usach/empresa.cpp', '[Legacy] Usach/nodos.cpp').
+- Demonstrated expertise in algorithm design, dynamic memory management, and efficient data handling."
+4,"Machine Learning Model Management","Designed and implemented a machine learning model management framework, featuring:
+- Attribute schema definition and dynamic filtering for model output features ('prpf1_cp/deploy/model_attributes.py').
+- Flask-based API for real-time model inference, supporting JSON and CSV inputs ('prpf1_cp/deploy/predictor_local.py').
+- Scalable data preprocessing using PySpark, integrated with S3 for efficient data handling ('prpf1_cp/deploy/CDA/cp_attribute_container_final_DEPRECATED.py').
+- Robust model deployment workflows with logging, serialization, and attribute validation ('prpf1_cp/deploy/model_class.py')."
+
+

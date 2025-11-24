@@ -1,0 +1,201 @@
+# === Operating System Files ===
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# === Generated Files ===
+*/pdf/*.pdf
+reposcan/
+docs/2021/amazon/design
+gmni_boletapp/
+presi2025/
+
+# === IDE / Editor Files ===
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+*.sublime-*
+
+# === Node.js ===
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Build outputs
+dist/
+build/
+_site/
+*.tsbuildinfo
+
+# Cache directories
+.cache/
+.npm/
+.eslintcache
+.stylelintcache
+
+# === TypeScript ===
+*.tsbuildinfo
+
+# === Python ===
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# === Firebase ===
+.firebase/
+firebase-debug.log
+firestore-debug.log
+ui-debug.log
+database-debug.log
+emulator-data/
+.firebaserc
+
+# Firebase environment/config (if sensitive)
+# Uncomment if you have sensitive Firebase config
+# firebase.json
+# .firebaserc
+# firestore.rules
+# firestore.indexes.json
+
+# === Testing ===
+# Playwright
+test-results/
+playwright-report/
+playwright/.cache/
+screenshots/
+videos/
+
+# Vitest / Jest
+coverage/
+.nyc_output
+
+# === Environment Variables ===
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env*.local
+
+# === Logs ===
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# === Temporary Files ===
+tmp/
+temp/
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# === Build Tools ===
+.vite/
+.turbo/
+.webpack/
+.parcel-cache/
+
+# === Documentation ===
+# Keep docs/ but ignore generated docs
+# docs/build/
+# docs/.docusaurus/
+
+# === Personal / Sensitive ===
+# CV and applications - uncomment if you want to ignore them
+# docs/cv-system/
+# **/cv-*.md
+# **/pre-screen-answers.md
+
+# Secrets and credentials
+*.pem
+*.key
+*.p12
+*.cer
+*.crt
+credentials.json
+service-account*.json
+
+# === Project Specific ===
+# BMAD related (if you want to ignore local config)
+# .bmad/local/
+
+# Eleventy cache
+.eleventy-cache/
+
+# Data files that shouldn't be tracked (uncomment if needed)
+# *.csv
+# *.xlsx
+# *.sqlite
+# *.db

@@ -1,0 +1,47 @@
+Management
+Ascend turnover models to Lisa Team - Team corrdination with Vivi
+AScend turnover models to Streaming Team - Coordination with Caro/Rodrigo - communicate possible delays with NRM_NES
+Convergent / Deployment of new model on many ways for many teams / cross-teams coordination
+
+Customer Care
+Opportun Model Development - Tailoring Specs and define audit process with customer
+Fix of NRM_NES model anticipating Teresa's needs
+Fixes on a model several times with tight deadlines to acomp´lish client expectation on delivery for implementation in their side / coordionation between areas / identificatin of collaborators and stones
+
+Details
+Identify and rise awareness on PINnning errorswhich lead to solve a massive issue which could have been cathastrophic(7 of 14 team memebers were dedicated to solve the issue next morning) (c9)
+detect error on logic of a common function used on several modules to identify a data version from a given input
+
+Innovation
+Redesign and implementation of new High Potential employee program delivering 18 new participants
+Creation of script of visualize and understand relations between members/filters/attributes on a model - I would have done better on this for real adoption of the tool ading debug values (C9.3)
+Simplification of a ANN to a yaml file (C8)
+Simplification of an ETL process to a yaml file (C8)
+Learned Python which has saved me and my team onb several ocations when some quick researchs for critical projects are required / like MIPS or ARf to TIP 512 match
+Learned shell which helped to develop a set of librearies that wee used on the creation of a reported which was estimated for 6 weeks developemtn and only took (under deadline) less than 1 week
+When I learned and built an ANN from scratch, was an amazing, challenging and really fun experience to finally understand how this algorithm works underneath the hood. - 11.3
+Think Big - Yeah a lot of projects and presentations, didnt continue due to lack of technical/management support
+
+Ownership
+Participation on flexwork program as ambassador (C7.3)
+Model Arqueology - Automation of many processes to speed up research/fix/recompile/terst and deployment (C10)
+Took over blood donation campaign organization when previous organizer left the country
+Develop a process for delivery of really old and out of standard models to ascend, considering critical points of failure and audit testing involved so they can be inmplemented on next gen platforms - C15
+Coordinate my classsmates to meet the complete subject expectations while we were off classes due to stundet-strike in the whole university. We had like 3 weeks of classes and came back at the end of the semester, but we were able to finish the subject successfully in just 1 class at the end due to my coordination and the group's pro-activity.
+
+Team Care
+Implementation of good practices on Bitbucket use (C7.3) (c9)
+Creation of training material about propietary tools of the company which didnt have a good training induction, it was used to the introduction of about 8 new team memebers with good results.
+Creation of diagram of a huge portioin of the company's data flow so everyone had a common ground to talk about the use and stage of the data and correlatie dependecies (C8)
+Learned Advanced C which helped me on achieving highest standards in code and delivery for me and the team - C11
+
+Bad Decisions
+Bad decision - trusting arquitects and SME on the standard of work which lead to pooor code versioninng and tool development standards.
+Bad decision - not pushing my feedback harder to get it it consideration on a clinet's presentation meeting - later I found out that my feedback was aligned with my manager's (who was not availabale at the time) and poiunted in the right direction
+Bad decision - following team's procedure on model development/audit and deployment without taking the time to dig deeper on real requirmeents for audit on each delivery platform
+
+Feedback oir Disgreement
+Disagreement on standard procedure for development of legacy models with my manager, we found out with the platform involved that I was right and the knowledge was spread among the team so wrong assumptions about legacy model development where avoided from the point forward.
+Feedback on a coworker who entered the company aty the same time as me, when he got promoted to SW dev his performance wasnot the best, I gave him feedback and example in how I succeded on a similar position, and he was able to keep his position and even been promoted again on their developer career path.
+Feedback on a coworker who entered the company aty the same time as me, when he got promoted to SW dev his performance wasnot the best, I gave him feedback and example in how I succeded on a similar position, and he was able to keep his position and even been promoted again on their developer career path.
+Feedback on a week  intern who was on the edge of being let go. Today he is a permanent employee workinfg as software engineer.
