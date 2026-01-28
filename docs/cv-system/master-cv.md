@@ -69,13 +69,16 @@ Built multiple internal tools, ML frameworks, C/C++ libraries, ETL platforms, an
 - Model validation and testing automation
 
 #### **LLM & AI Agent Development** *(2024-2025)*
-- **Agent Frameworks:** BMAD framework user — creating custom agents, workflows, and skills
+- **Agent Frameworks:** BMAD framework — designing custom agents with sharded memory, workflow chains, and knowledge management
+- **Custom Agents Built:**
+  - **Atlas** — Project Intelligence Guardian with 9-fragment knowledge architecture, memory versioning, anti-hallucination protocols, and workflow impact analysis
+  - Moltbot/Cloudbot installation verification skill
 - **LLM APIs:** Claude (Anthropic), Gemini (Google), OpenAI integration
 - **Applications Built:**
   - AI-powered expense tracker with receipt scanning (Gemini 2.5 Flash)
   - Presidential policy analysis tool with 28 AI voter personas (Claude Sonnet)
-  - Custom Moltbot/Cloudbot skills and automation
-- **Prompt Engineering:** Structured persona design, multi-step workflow prompts
+- **Agent Architecture:** Sharded memory systems, index-guided context loading, backup/restore patterns
+- **Prompt Engineering:** Structured persona design, multi-step workflow prompts, anti-hallucination rules
 - **AI-Assisted Development:** Claude Code, GitHub Copilot, ChatGPT for development acceleration
 
 #### **Development Practices**
@@ -277,6 +280,24 @@ Progressive Web App for expense tracking with AI-powered receipt scanning:
 - **UX:** Multi-language (EN/ES), dark/light themes, offline-capable PWA
 - **Skills:** LLM vision APIs, React, TypeScript, Firebase, PWA development
 - **URL:** [boletapp-d609f.web.app](https://boletapp-d609f.web.app)
+
+---
+
+### Atlas - Project Intelligence Agent
+**BMAD Framework | Custom Agent Architecture | 2025**
+
+Custom AI agent designed for project knowledge management and alignment validation:
+
+- **Architecture:** 9-fragment sharded knowledge system with index-guided selective loading
+- **Features:**
+  - Memory versioning with backup/restore capability
+  - Anti-hallucination protocols (forces direct quotes, cites sources)
+  - Workflow chain impact analysis (traces upstream/downstream effects)
+  - Automated sync with project documents (PRD, architecture, stories)
+  - Memory optimization with consolidation reports
+- **Capabilities:** Project alignment validation, test coverage analysis, seed data generation
+- **Design Principles:** "Flag and suggest" pattern, advisor-not-executor role, continuous learning
+- **Skills:** Agent architecture design, knowledge management systems, prompt engineering, BMAD framework
 
 ---
 
