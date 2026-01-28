@@ -4,7 +4,7 @@
 >
 > This is your comprehensive professional dossier. Not meant to be sent directly, but to serve as the source for tailored CVs.
 
-**Last Updated:** 2025-11-24
+**Last Updated:** 2026-01-28
 **Total Experience:** 11 years in Software Engineering
 **Location:** Santiago, Chile
 **LinkedIn:** [linkedin.com/in/gabriel-carcamo](http://www.linkedin.com/in/gabriel-carcamo)
@@ -67,6 +67,16 @@ Built multiple internal tools, ML frameworks, C/C++ libraries, ETL platforms, an
 - Model lifecycle management
 - Feature engineering and data preprocessing
 - Model validation and testing automation
+
+#### **LLM & AI Agent Development** *(2024-2025)*
+- **Agent Frameworks:** BMAD framework user — creating custom agents, workflows, and skills
+- **LLM APIs:** Claude (Anthropic), Gemini (Google), OpenAI integration
+- **Applications Built:**
+  - AI-powered expense tracker with receipt scanning (Gemini 2.5 Flash)
+  - Presidential policy analysis tool with 28 AI voter personas (Claude Sonnet)
+  - Custom Moltbot/Cloudbot skills and automation
+- **Prompt Engineering:** Structured persona design, multi-step workflow prompts
+- **AI-Assisted Development:** Claude Code, GitHub Copilot, ChatGPT for development acceleration
 
 #### **Development Practices**
 - System Design & Architecture
@@ -238,6 +248,35 @@ Complete ANN system demonstrating deep understanding of ML fundamentals:
   - Weight-shift visualization tools
 - **Impact:** Enhanced understanding of neural architecture internals and ML interpretability
 - **Skills:** NumPy, algorithm design, mathematical optimization, visualization
+
+---
+
+### Presidential Policy Analysis Tool (analisis2025.cl)
+**Claude API | React | Public Web Application | 2025**
+
+AI-powered platform analyzing Chilean presidential candidates through diverse voter perspectives:
+
+- **Scale:** 1,547 policy measures extracted and analyzed from candidate programs
+- **AI Design:** 28 fictional voter personas (professionals, retirees, students, etc.) each evaluating proposals
+- **LLM Integration:** Claude Sonnet 4.5 for persona-based policy evaluation
+- **Transparency:** All evaluations cite specific measures with reasoning chains
+- **Public Impact:** Educational tool for voters to understand policy implications
+- **Skills:** LLM API integration, prompt engineering, persona design, React, public deployment
+- **URL:** [analisis2025.cl](https://analisis2025.cl)
+
+---
+
+### Boletapp - AI Expense Tracker
+**React | TypeScript | Firebase | Gemini API | PWA | 2025-Present**
+
+Progressive Web App for expense tracking with AI-powered receipt scanning:
+
+- **AI Features:** Google Gemini 2.5 Flash for automatic receipt data extraction
+- **Stack:** React 18, TypeScript, Vite 5, Tailwind CSS
+- **Backend:** Firebase (Auth, Firestore) for real-time sync
+- **UX:** Multi-language (EN/ES), dark/light themes, offline-capable PWA
+- **Skills:** LLM vision APIs, React, TypeScript, Firebase, PWA development
+- **URL:** [boletapp-d609f.web.app](https://boletapp-d609f.web.app)
 
 ---
 
@@ -516,14 +555,14 @@ Successfully managed complex technical work while maintaining personal developme
 
 ## Keywords for ATS
 
-Python, C, C++, SQL, Shell Script, Bash, JavaScript, Node.js, React, Express, Flask, FastAPI, Django, SQLAlchemy, Pandas, NumPy, Scikit-learn, Machine Learning, AI, Neural Networks, AWS, Lambda, EC2, S3, Docker, Git, GitHub, Bitbucket, CI/CD, ETL, Data Pipeline, Mainframe, JCL, DB2, CICS, VSAM, Endevor, AIX, Linux, Ubuntu, PostgreSQL, MySQL, REST API, Microservices, System Design, Architecture, Debugging, Performance Optimization, Agile, Scrum, Kanban, Technical Leadership, Mentorship, Client Relations, Cross-functional Collaboration
+Python, C, C++, SQL, Shell Script, Bash, JavaScript, Node.js, React, Express, Flask, FastAPI, Django, SQLAlchemy, Pandas, NumPy, Scikit-learn, Machine Learning, AI, Neural Networks, AWS, Lambda, EC2, S3, Docker, Git, GitHub, Bitbucket, CI/CD, ETL, Data Pipeline, Mainframe, JCL, DB2, CICS, VSAM, Endevor, AIX, Linux, Ubuntu, PostgreSQL, MySQL, REST API, Microservices, System Design, Architecture, Debugging, Performance Optimization, Agile, Scrum, Kanban, Technical Leadership, Mentorship, Client Relations, Cross-functional Collaboration, LLM, Large Language Models, Claude, Anthropic, Gemini, Google AI, OpenAI, GPT, Prompt Engineering, AI Agents, BMAD Framework, Agent Development, AI Applications, Firebase, TypeScript, Vite, PWA, Progressive Web App
 
 ---
 
 ## Document Metadata
 
-- **Version:** 1.0
-- **Last Updated:** 2025-11-24
+- **Version:** 1.1
+- **Last Updated:** 2026-01-28
 - **Source Files:**
   - `docs/2025/chatgpt/cv_refinement.md`
   - `docs/2025/Outplacement/FODA.md`
