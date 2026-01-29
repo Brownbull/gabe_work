@@ -69,10 +69,12 @@ Built multiple internal tools, ML frameworks, C/C++ libraries, ETL platforms, an
 - Model validation and testing automation
 
 #### **LLM & AI Agent Development** *(2024-2025)*
-- **Agent Frameworks:** BMAD framework — designing custom agents with sharded memory, workflow chains, and knowledge management
-- **Custom Agents Built:**
-  - **Atlas** — Project Intelligence Guardian with 9-fragment knowledge architecture, memory versioning, anti-hallucination protocols, and workflow impact analysis
-  - Moltbot/Cloudbot installation verification skill
+- **Agent Development:** Hands-on creation of AI agents, commands, hooks, and skills — experience predates and extends beyond specific frameworks
+- **Custom Creations:**
+  - **Atlas Agent** — Project Intelligence Guardian with 9-fragment knowledge architecture, memory versioning, anti-hallucination protocols, workflow impact analysis
+  - Custom Moltbot/Cloudbot skills for installation verification and automation
+  - Agent commands and hooks for workflow integration
+- **Framework Experience:** BMAD framework for structured agent orchestration
 - **LLM APIs:** Claude (Anthropic), Gemini (Google), OpenAI integration
 - **Applications Built:**
   - AI-powered expense tracker with receipt scanning (Gemini 2.5 Flash)
