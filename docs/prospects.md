@@ -101,6 +101,48 @@
 - **Pay: $50-200/hour** | Via Mercor platform
 - AI/LLM training tasks, worldwide
 
+**Invisible Agency - Python Coding Specialist (AI Trainer)**
+- **Pay: $8-65/hour** | Freelance, remote
+- Train AI models on Python coding tasks
+- Work with LLMs on code generation and evaluation
+- Flexible hours, project-based
+
+**Invisible Agency - Backend Engineering Specialist (AI Trainer)**
+- **Pay: Competitive** | Freelance, remote
+- Backend engineering focus for AI training
+- Includes health insurance benefit
+- Train models on backend development patterns
+
+**Catalant - Senior AI Engineer**
+- Senior-level AI role
+- US/Worldwide remote
+- Platform connecting businesses with experts
+
+**Egen - Senior Application Engineer Python**
+- Senior Python-specific role
+- Application engineering focus
+- Remote position
+
+**Sanctuary Computer - Senior Data Engineer**
+- **Pay: $180,000-270,000/year**
+- US-based, data engineering focus
+- High compensation tier
+
+**Demandbase - Principal Software Engineer**
+- Principal level (staff+)
+- Worldwide remote
+- B2B marketing/sales platform
+
+**Freelancer.com - Regulatory Watchtower (AI/LLM Architect)**
+- Production RAG system for regulatory monitoring
+- Python, LLMs, auditable AI outputs
+- Fixed-price project
+
+**Freelancer.com - AI Chatbot for Construction Leadership**
+- RAG chatbot implementation
+- Open-source LLMs, data ingestion pipelines
+- Construction industry domain
+
 ---
 
 ## Status Legend
