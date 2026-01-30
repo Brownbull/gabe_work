@@ -25,7 +25,29 @@
 
 | Added | Client/Platform | Project Type | Source | Fit | Status | Notes |
 |-------|-----------------|--------------|--------|-----|--------|-------|
-| | | | | | | |
+| 2026-01-30 | Mindrift | Freelance Senior Python Developer - Functional Test Frameworks | WWR | A | New | Python, testing, contract, worldwide |
+| 2026-01-30 | Mindrift | Freelance Agent Evaluation Engineer | WWR | A | New | AI Agents evaluation, contract, worldwide |
+| 2026-01-30 | Helix Recruit | AI Trainer (Multiple Roles) | WWR | A | New | $50-200/hr, AI/LLM training, worldwide |
+| 2026-01-30 | Invisible Agency | Python Coding Specialist - Freelance AI Trainer | Indeed | A | New | $8-65/hr, Python + AI training, LLMs |
+| 2026-01-30 | Invisible Agency | Backend Engineering Specialist - Freelance AI Trainer | Indeed | A | New | Backend + AI, health insurance, remote |
+| 2026-01-30 | NewtonX | AI Development Advisor | WWR | B | New | AI consulting, contract, worldwide |
+| 2026-01-30 | DataAnnotation.tech | AI Prompt Engineering & Evaluation | WWR | B | New | AI/LLM, will train, NA/EMEA/Asia |
+| 2026-01-30 | NewtonX | Strategic IT Advisor | WWR | B | New | IT consulting, contract, worldwide |
+| 2026-01-30 | Madeo | Web Developer (Contract) | WWR | B | New | Web dev, contract, worldwide |
+| 2026-01-30 | Invisible Agency | Full Stack Engineering Specialist - Freelance AI Trainer | Indeed | B | New | Full stack + AI training, remote |
+| 2026-01-30 | Invisible Agency | AI QA Trainer - LLM Evaluation | Indeed | B | New | LLM evaluation, QA focus, remote |
+| 2026-01-30 | Catalant | Senior AI Engineer | RemoteOK | A | New | AI, US/Worldwide, senior level |
+| 2026-01-30 | Egen | Senior Application Engineer Python | RemoteOK | A | New | Python-specific, senior role |
+| 2026-01-30 | Sanctuary Computer | Senior Data Engineer | RemoteOK | A | New | $180k-270k, US, data engineering |
+| 2026-01-30 | Demandbase | Principal Software Engineer | RemoteOK | A | New | Principal level, worldwide |
+| 2026-01-30 | Loka, Inc | Senior DevOps Engineer | RemoteOK | B | New | LatAm, Portugal, Serbia friendly |
+| 2026-01-30 | Daniel J Edelman | Senior MLOps Engineer | RemoteOK | B | New | MLOps focus, worldwide |
+| 2026-01-30 | Snowplow Analytics | Senior Full Stack Engineer | RemoteOK | B | New | Poland/Europe, high demand |
+| 2026-01-30 | Glide Apps | Data Analyst (Contract-to-hire) | Indeed | B | New | BigQuery, dbt, Python, remote |
+| 2026-01-30 | Freelancer | Regulatory Watchtower - AI/LLM Architect | Freelancer.com | A | New | Production RAG system, Python, LLMs, auditable AI |
+| 2026-01-30 | Freelancer | AI Chatbot for Construction Leadership | Freelancer.com | A | New | RAG chatbot, open-source LLMs, data ingestion |
+| 2026-01-30 | Freelancer | Algo Trading Platform Enhancement | Freelancer.com | B | New | Full-stack Python, multi-user, cloud deployment |
+| 2026-01-30 | Freelancer | Interactive GeoAI Urban Layout Generator | Freelancer.com | B | New | Python, ML, geospatial AI |
 
 ---
 
