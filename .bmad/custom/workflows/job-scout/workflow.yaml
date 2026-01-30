@@ -1,0 +1,70 @@
+# Job Scout - Automated Job Board Search Workflow
+name: job-scout
+description: "Browse public job boards using Playwright, find positions matching your profile, and add promising ones to prospects.md"
+author: "Gabe"
+
+# Critical variables from config
+config_source: "{project-root}/.bmad/bmb/config.yaml"
+output_folder: "{config_source}:output_folder"
+user_name: "{config_source}:user_name"
+communication_language: "{config_source}:communication_language"
+date: system-generated
+
+# Module path and component files
+installed_path: "{project-root}/.bmad/custom/workflows/job-scout"
+template: false
+instructions: "{installed_path}/instructions.md"
+
+# Reference files
+target_roles_file: "{project-root}/docs/career/target-roles.md"
+master_cv_file: "{project-root}/docs/career/master-cv.md"
+skills_matrix_file: "{project-root}/docs/career/skills-matrix.md"
+prospects_file: "{output_folder}/prospects.md"
+
+# Job site configurations
+job_sites:
+  indeed:
+    name: "Indeed"
+    base_url: "https://www.indeed.com"
+    search_url: "https://www.indeed.com/jobs?q={query}&l={location}&remotejob=032b3046-06a3-4876-8dfd-474eb5e7ed11"
+    location: "Remote"
+    selectors:
+      job_card: "[data-testid='slider_item']"
+      title: "h2.jobTitle"
+      company: "[data-testid='company-name']"
+      location: "[data-testid='text-location']"
+
+  getonboard:
+    name: "GetOnBoard"
+    base_url: "https://www.getonbrd.com"
+    search_url: "https://www.getonbrd.com/jobs?q={query}&remote=true"
+    location: "Remote"
+
+  weworkremotely:
+    name: "We Work Remotely"
+    base_url: "https://weworkremotely.com"
+    search_url: "https://weworkremotely.com/remote-jobs/search?term={query}"
+    location: "Remote"
+
+  remoteok:
+    name: "RemoteOK"
+    base_url: "https://remoteok.com"
+    search_url: "https://remoteok.com/remote-{query}-jobs"
+    location: "Remote"
+
+  simplyhired:
+    name: "SimplyHired"
+    base_url: "https://www.simplyhired.com"
+    search_url: "https://www.simplyhired.com/search?q={query}&l=remote"
+    location: "Remote"
+
+# Default search queries based on target roles (95%+ fit)
+default_search_queries:
+  - "senior python engineer"
+  - "senior backend engineer"
+  - "python developer"
+  - "backend developer"
+  - "platform engineer"
+
+# Invocation control
+standalone: true
